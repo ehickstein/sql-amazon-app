@@ -1,0 +1,24 @@
+{
+  "name": "sql-amazon-app",
+  "version": "1.0.0",
+  "description": "homework 9",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehickstein/sql-amazon-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehickstein/sql-amazon-app/issues"
+  },
+  "homepage": "https://github.com/ehickstein/sql-amazon-app#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
